@@ -48,13 +48,14 @@
       //############### THIS IS THE PART YOU MUST CHANGE #######################
       //########################################################################
 
-    var lastNames =["last_Names_1","last_Names_2","last_Names_3"],
-        firstNames =["first_Names_1","first_Names_2","first_Names_3"],
-        births =["yyyy-mm-aa","yyyy-mm-aa","yyyy-mm-aa"],
-        passNumbers =["KN0000000","LF0000000","BH0000000"],
-        issueDates =["yyyy-mm-aa","yyyy-mm-aa","yyyy-mm-aa"],
-        expiryDates =["yyyy-mm-aa","yyyy-mm-aa","yyyy-mm-aa"],
-        pptissuePalaces =["city Name","city Name","city Name"],
+    var lastNames =["MOUHCINE,"MOUCINE","KABBAJ"],
+        firstNames =["SAMIRA","ABDESSAMAD","MOHAMED ADAM"],
+        births =["1964-01-19","1997-09-09","2006-08-09"],
+        passNumbers =["YO9246071","GO9540374","SD7920508"],
+        issueDates =["2023-02-22","2019-02-12","2023-02-27"],
+        expiryDates =["2028-02-22","2024-02-12","2028-02-27"],
+        firstNames =["SAMIRA_1","ABDESSAMAD","MOHAMED ADAM"],
+        pptissuePalaces =["CASABLANCA","city CASABLANCA","CASABLANCA"],
         number = 3,
       //########################################################################
       //########################################################################
