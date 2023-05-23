@@ -48,8 +48,8 @@
       //############### THIS IS THE PART YOU MUST CHANGE #######################
       //########################################################################
 
-    var lastNames =["MOUHCINE,"MOUCINE","KABBAJ"],
-        firstNames =["SAMIRA","ABDESSAMAD","MOHAMED ADAM"],
+    var lastNames =["MOUHCINE","MOUHCINE","KABBAJ"],
+    firstNames =["SAMIRA","ABDESSAMAD","MOHAMED ADAM"],
         births =["1964-01-19","1997-09-09","2006-08-09"],
         passNumbers =["YO9246071","GO9540374","SD7920508"],
         issueDates =["2023-02-22","2019-02-12","2023-02-27"],
@@ -76,7 +76,7 @@
             }, 4000)
         }
     }
-    if(document.getElementById("app_date").value.length === 0)
+    if(document.getElementById("MOUHCINE").value.length === 0)
         {
             setTimeout(function(){window.location.reload(1);}, 19 * 1000);
         }
