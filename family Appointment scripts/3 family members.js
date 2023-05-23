@@ -54,8 +54,8 @@
         passNumbers =["YO9246071","GO9540374","SD7920508"],
         issueDates =["2023-02-22","2019-02-12","2023-02-27"],
         expiryDates =["2028-02-22","2024-02-12","2028-02-27"],
-        firstNames =["SAMIRA_1","ABDESSAMAD","MOHAMED ADAM"],
-        pptissuePalaces =["CASABLANCA","city CASABLANCA","CASABLANCA"],
+        firstNames =["SAMIRA","ABDESSAMAD","MOHAMED ADAM"],
+        pptissuePalaces =["CASABLANCA","CASABLANCA","CASABLANCA"],
         number = 3,
       //########################################################################
       //########################################################################
